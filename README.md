@@ -1,11 +1,6 @@
 
 ## WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-02
 
-### 📅 Deadline For 60 marks: 5th March, 2026 (11:59 pm ⏱️)
-
-### 📅 Deadline For 50 marks: 6th March, 2026 (11:59 pm ⏱️)
-
-### 📅 Deadline For 30 marks: Until the next assignment is published.
 
 ---
 
@@ -94,6 +89,37 @@ Clicking **Complete Button**:
 3. The **In Progress count decreases**. 
 4. The **Resolved count increases**. 
 5. It is removed from the **Customer Tickets list**. 
+
+
+
+## 🧰 Required Technology Stack
+
+- **HTML**
+- **CSS** (Vanilla / Tailwind / DaisyUI)
+- **JavaScript**
+- **React.js** (Mandatory)
+
+> ⚠️ **Important:** The project must be built using **React.js**. Other frameworks such as Vue are not permitted.
+
+---
+
+## 📌 Project Rules
+
+- ✅ At least **5 meaningful commits** are required.
+- ❌ Do not use dummy text where real data can be displayed.
+
+---
+
+## 🔗 Submission
+- **Live Link :** YOUR_DEPLOYED_URL_HERE
+- **GitHub Repository:** YOUR_REPO_URL_HERE
+
+
+### 📅 Deadline For 60 marks: 5th March, 2026 (11:59 pm ⏱️)
+
+### 📅 Deadline For 50 marks: 6th March, 2026 (11:59 pm ⏱️)
+
+### 📅 Deadline For 30 marks: Until the next assignment is published.
 
 
 ---
