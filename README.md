@@ -1,9 +1,6 @@
-
 ## WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-02
 
-
 ---
-
 
 # Customer Support Zone
 
@@ -50,7 +47,6 @@ This project is a React-based **Customer Support Zone** designed to display cust
    * Clicking **Complete Button**:
 
      * show alert
-     
 
 
 ### ✅ Footer 
@@ -62,17 +58,25 @@ This project is a React-based **Customer Support Zone** designed to display cust
 * The entire website is **responsive** for mobile devices.
 
 ### ✅ Readme: 
+
 Create a README file to answer the following question-
 
- - What is JSX, and why is it used?
- - What is the difference between State and Props?
- - What is the useState hook, and how does it work?
- - How can you share state between components in React?
- - How is event handling done in React?
+ - **What is JSX, and why is it used?**  
+   JSX (JavaScript XML) is a syntax extension for JavaScript used with React to describe what the UI should look like. It allows developers to write HTML-like code directly inside JavaScript, making it easier to read, write, and maintain React components.
+
+ - **What is the difference between State and Props?**  
+   State is local and mutable data managed directly within a component to track changes over time. Props (properties) are read-only data passed downwards from a parent component to child components.
+
+ - **What is the useState hook, and how does it work?**  
+   The `useState` hook allows functional components to hold and update their own local state. It returns an array with two elements: the current state value and a function to update it. Calling the update function triggers a component re-render.
+
+ - **How can you share state between components in React?**  
+   State can be shared by "lifting state up" to a common parent component, which passes down the state and update functions via props. For deeply nested components, you can use the React Context API or state management libraries.
+
+ - **How is event handling done in React?**  
+   React handles events using camelCase naming (e.g., `onClick`, `onChange`) instead of lowercase, and you pass a function reference (event handler) rather than a string. React also wraps native events in a `SyntheticEvent` to ensure cross-browser compatibility.
 
 ---
-
-### 
 
 ## 📌 Challenge Requirements 
 
@@ -121,7 +125,4 @@ Clicking **Complete Button**:
 
 ### 📅 Deadline For 30 marks: Until the next assignment is published.
 
-
 ---
-
-

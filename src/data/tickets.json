@@ -1,0 +1,92 @@
+[
+  {
+    "id": "TKT-001",
+    "title": "Cannot log into my account",
+    "description": "User is unable to log in after password reset. Getting an 'Invalid Credentials' error despite multiple attempts.",
+    "customer": "Alice Smith",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-05T09:15:00Z"
+  },
+  {
+    "id": "TKT-002",
+    "title": "Billing details not updating",
+    "description": "When trying to update credit card details, the page hangs and eventually times out. Needs urgent attention as customer subscription is expiring.",
+    "customer": "Bob Johnson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-05T10:30:00Z"
+  },
+  {
+    "id": "TKT-003",
+    "title": "Feature request: Dark mode",
+    "description": "Customer requesting a dark mode toggle for the main dashboard interface. This has been requested multiple times.",
+    "customer": "Charlie Davis",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-04T15:45:00Z"
+  },
+  {
+    "id": "TKT-004",
+    "title": "Application crashes on exporting PDF",
+    "description": "The application crashes completely when attempting to export reports as PDF. Occurs consistently on Chrome and Firefox.",
+    "customer": "Diana Prince",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-05T11:00:00Z"
+  },
+  {
+    "id": "TKT-005",
+    "title": "Typo on the landing page",
+    "description": "Found a typo on the main landing page under the 'Features' section. 'Availabe' should be 'Available'.",
+    "customer": "Evan Wright",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-03T14:20:00Z"
+  },
+  {
+    "id": "TKT-006",
+    "title": "Account verification email not received",
+    "description": "Signup completed but the verification email has not arrived even after 24 hours. Checked spam folder as well.",
+    "customer": "Fiona Gallagher",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-05T12:05:00Z"
+  },
+  {
+    "id": "TKT-007",
+    "title": "API rate limit exceeded too quickly",
+    "description": "Developer reporting that the standard API rate limits are being triggered after only 10 requests.",
+    "customer": "George Costanza",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-04T09:30:00Z"
+  },
+  {
+    "id": "TKT-008",
+    "title": "Unable to upload profile picture",
+    "description": "Uploading a valid JPEG image (under 2MB) results in an 'Unsupported format' error message.",
+    "customer": "Hannah Abbott",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-02T16:15:00Z"
+  },
+  {
+    "id": "TKT-009",
+    "title": "Payment gateway timeout",
+    "description": "Users in the EU region are experiencing intermittent timeouts when checking out via Stripe gateway.",
+    "customer": "Ian Malcolm",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-05T08:45:00Z"
+  },
+  {
+    "id": "TKT-010",
+    "title": "Mobile app push notifications failing",
+    "description": "Push notifications are not being delivered to iOS users on the latest app build version 2.4.1.",
+    "customer": "Jack Ryan",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-05T13:20:00Z"
+  }
+]

@@ -1,0 +1,28 @@
+@import "tailwindcss";
+@import "react-toastify/dist/ReactToastify.css";
+
+/* Base styles for the entire app */
+@theme {
+  --color-primary-light: #5267e2;
+  --color-primary-dark: #2F41B2;
+  --font-inter: 'Inter', sans-serif;
+  --font-outfit: 'Outfit', sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-inter), 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #F8FAFC;
+  color: #1E293B;
+}
+
+/* Gradient text utility */
+.text-gradient {
+  background: linear-gradient(to right, #2563eb, #7c3aed);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
