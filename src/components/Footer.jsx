@@ -7,7 +7,7 @@ const Footer = () => {
           <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center">
             <span className="text-white font-bold text-sm">H</span>
           </div>
-          <span className="text-lg font-bold text-gray-800 tracking-tight">HelpDesk</span>
+          <span className="text-lg font-bold text-gray-800 tracking-tight">CS -- Ticket System</span>
         </div>
         
         <div className="flex justify-center text-sm text-gray-500 text-center md:text-left">
